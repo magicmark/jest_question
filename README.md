@@ -2,6 +2,12 @@
 
 How do we mock out stuff in integration tests _per test_ with jest?
 
+## Repro
+
+```
+$ yarn test
+```
+
 ### Current output
 
 ```

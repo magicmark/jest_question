@@ -1,4 +1,4 @@
-# yarn question
+# Jest Question
 
 How do we mock out stuff in integration tests _per test_ with jest?
 

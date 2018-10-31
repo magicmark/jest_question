@@ -17,7 +17,11 @@ describe("meal tests", () => {
       veg: "avocado",
       carbs: "toast"
     }));
+
+    // prints out the newly mocked food!
     console.log(require("../src/food"));
+
+    // ...but we didn't mock it in time, so this fails!
     expect(getMeal()).toBe("Good morning. Dinner is avocado and toast. Yum!");
   });
 });

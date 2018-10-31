@@ -2,6 +2,8 @@
 
 How do we mock out stuff in integration tests _per test_ with jest?
 
+Question on Stack Overflow: https://stackoverflow.com/questions/53075279/how-do-we-mock-out-dependencies-with-jest-per-test
+
 ## Repro
 
 ```
